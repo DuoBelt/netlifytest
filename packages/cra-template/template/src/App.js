@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Mario React App
+         Mario React App ( CI  :) )
         </a>
       </header>
     </div>
